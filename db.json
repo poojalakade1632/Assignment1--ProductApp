@@ -1,0 +1,33 @@
+{
+  "product": [
+    {
+      "productid": "1",
+      "productname": "mobile",
+      "productprice": 34567,
+      "produccategory": "device",
+      "producturl": "https://rukminim2.flixcart.com/image/416/416/jfbfde80/camera/n/r/n/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpeg?q=70",
+      "productdescription": "good device",
+      "id": 1,
+      "productcategory": "device"
+    },
+    {
+      "productid": "2",
+      "productname": "laptop",
+      "productprice": 23456,
+      "productcategory": "device",
+      "producturl": "https://rukminim2.flixcart.com/image/416/416/xif0q/computer/5/6/i/-original-imaggshd5zgfe8ev.jpeg?q=70",
+      "productdescription": "quality ok",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
